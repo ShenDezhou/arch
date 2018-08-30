@@ -17,12 +17,27 @@ MinGW定义：适用于Windows的极简主义GNU
 2.Beautify
 ===
 使用uncrusify对c、c++代码进行美化  
+
+2.1uncrusify
+---
+
+下载路径
+```
+https://sourceforge.net/projects/uncrustify/files/uncrustify/
+```
+
+2.2uncrusify config
+---
 uncrusify有个非常复杂的配置文件，可以使用配置文件解析器
 ```
 https://cdanu.github.io/uncrustify_config_preview/index.html
 ```
 进行编辑  
+
+2.3autopep8
+---
 使用autopep8对python代码进行美化
+`pip install autopep8`
 
 3.ATOM插件
 ===
