@@ -37,7 +37,7 @@ https://cdanu.github.io/uncrustify_config_preview/index.html
 2.3autopep8
 ---
 使用autopep8对python代码进行美化
-`pip install autopep8`
+`pip install autopep8 isort`
 
 3.ATOM插件
 ===
